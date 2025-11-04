@@ -1,0 +1,10 @@
+{
+  "name": "كيا ستور",
+  "short_name": "KayaStore",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0b0c",
+  "theme_color": "#00b894",
+  "icons": []
+}
+
